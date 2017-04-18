@@ -98,7 +98,7 @@
         +'text-align: left;'
         +'overflow: visible;'
         +'white-space: pre;'
-        +'font: 12px/12px monospace;';
+        +'font: 12px/12px Courier,monospace;';
 
     let sl_style_main
         =sl_style_base
